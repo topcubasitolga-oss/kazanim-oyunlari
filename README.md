@@ -13,9 +13,16 @@ Türkiye Yüzyılı Maarif Modeli öğrenme çıktılarına göre hazırlanmış
 
 Bil Bakalım, Kutuyu Aç, Balon Patlat, Eşleştir, Hafıza Kartları, Grupla, Çarkıfelek, Doğru mu Yanlış mı, Yarışma, Eşini Bul, Bilgi Kartları, Köstebek Vur, Sırala, Labirent, Uçan Meyve.
 
-## Örnek durak: Sayılar Yolu
+## Örnek yollar
 
-`ornek/` klasörü, tek bir öğrenme çıktısının (MAT.1.1.1) uçtan uca bitmiş hâlidir: harita, konuşan ibibik, çıkartma ödülleri ve üç farklı oyun (Sepete Topla, Balonu Yakala, Eşini Bul). Emoji kullanılmaz; bütün görseller aynı çizim dilindedir.
+`ornek/` klasörü, tek bir öğrenme çıktısının uçtan uca bitmiş hâlini gösterir: harita, konuşan ibibik, çıkartma ödülleri ve birbirinden farklı üç oyun. Emoji kullanılmaz; bütün görseller aynı çizim dilindedir.
+
+| Yol | Çıktı | Duraklar |
+|---|---|---|
+| Sayılar Yolu (`ornek/`) | MAT.1.1.1, 20'ye kadar sayılar | Sepete Topla, Balonu Yakala, Eşini Bul |
+| Sözcükler Yolu (`ornek/sozcukler.html`) | T.O.3.2 h ve T.Y.3.2 f, eş anlamlı sözcükler | Köprüyü Kur, Metinde Bul, Cümleyi Yenile |
+
+`ornek/yol.js` ortak motordur (harita, ibibik, ödül, albüm). Her yol kendi dosyasında tanımlanır (`sayilar.js`, `sozcukler.js`). Sözcük çiftleri, metinler ve cümleler taslaktır.
 
 ## Dosyalar
 
