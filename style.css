@@ -548,3 +548,6 @@ select { border: 2px solid var(--line); border-radius: 14px; min-height: 46px; f
 .go { border-radius: 999px; } .go.big { border-radius: 999px; box-shadow: 0 5px 0 #0E9C82; }
 @media (min-width: 821px) { .hero { aspect-ratio: 1584 / 672; max-height: 600px; display: flex; } .heroin { width: 100%; min-height: 0; padding-top: 0; padding-bottom: 6%; } }
 @media (max-width: 820px) { .hero { background-size: auto 56%; background-position: right -90px bottom; } .heroin { padding-bottom: 60vw; } }
+
+.trynew { display: inline-flex; align-items: center; gap: 4px; margin-top: 16px; font-family: var(--display); font-weight: 600; font-size: 18px; color: #fff; background: var(--teal); padding: 10px 24px; border-radius: 999px; text-decoration: none; box-shadow: 0 5px 0 #0E9C82; }
+.trynew:hover { filter: brightness(1.05); } .trynew:active { transform: translateY(4px); box-shadow: 0 1px 0 #0E9C82; }

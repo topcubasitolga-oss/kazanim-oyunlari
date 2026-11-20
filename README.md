@@ -13,6 +13,10 @@ Türkiye Yüzyılı Maarif Modeli öğrenme çıktılarına göre hazırlanmış
 
 Bil Bakalım, Kutuyu Aç, Balon Patlat, Eşleştir, Hafıza Kartları, Grupla, Çarkıfelek, Doğru mu Yanlış mı, Yarışma, Eşini Bul, Bilgi Kartları, Köstebek Vur, Sırala, Labirent, Uçan Meyve.
 
+## Örnek durak: Sayılar Yolu
+
+`ornek/` klasörü, tek bir öğrenme çıktısının (MAT.1.1.1) uçtan uca bitmiş hâlidir: harita, konuşan ibibik, çıkartma ödülleri ve üç farklı oyun (Sepete Topla, Balonu Yakala, Eşini Bul). Emoji kullanılmaz; bütün görseller aynı çizim dilindedir.
+
 ## Dosyalar
 
 | Dosya | İçerik |
